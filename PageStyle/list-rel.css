@@ -1,0 +1,31 @@
+
+.infos{
+    float:right;
+}
+button{
+    float: right;
+}
+li{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(53, 52, 52);
+}
+h5{
+    text-align: center;
+    margin-top: -35px;
+}
+.descricao{
+    margin-top: -15px;
+}
+.infos{
+    float: right;
+    margin-top: -40px;
+}
+.infos1{
+    float: right;
+    margin-top: -70px;
+}
